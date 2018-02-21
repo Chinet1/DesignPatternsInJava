@@ -1,6 +1,6 @@
 package com.mateuszzbylut.AbstractFactory;
 
-public class Clinet {
+public class Client {
 
     public static void main(String[] args) {
         TableFactory factory;
