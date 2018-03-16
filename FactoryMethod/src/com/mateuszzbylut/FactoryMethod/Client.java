@@ -1,6 +1,7 @@
 package com.mateuszzbylut.FactoryMethod;
 
 public class Client {
+
     public static void main(String[] args) {
         HumanFactory humanFactory = new HumanFactory();
 
